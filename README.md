@@ -48,6 +48,3 @@ flowchart TD
     D --> F[Log & Normalize Data]
     E --> F[Log & Normalize Data]
     F --> G[Send confirmation + Feed Reporting System]
-
-
-
