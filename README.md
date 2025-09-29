@@ -37,7 +37,6 @@
 ---
 
 ## 📊 Ví dụ luồng xử lý | Example Flow  
-## 📊 Ví dụ luồng xử lý | Example Flow  
 
 ```mermaid
 flowchart TD
@@ -49,5 +48,6 @@ flowchart TD
     D --> F[Log & Normalize Data]
     E --> F[Log & Normalize Data]
     F --> G[Send confirmation + Feed Reporting System]
+
 
 
