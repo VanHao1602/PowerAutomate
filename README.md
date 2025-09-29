@@ -37,7 +37,7 @@
 ---
 
 ## 📊 Ví dụ luồng xử lý | Example Flow  
-
+![Process Flow](./FLOW.png)
 ```mermaid
 flowchart TD
     A[Employee submits request] --> B{Request type?}
@@ -48,3 +48,4 @@ flowchart TD
     D --> F[Log & Normalize Data]
     E --> F[Log & Normalize Data]
     F --> G[Send confirmation + Feed Reporting System]
+
