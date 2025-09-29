@@ -48,3 +48,5 @@ flowchart TD
     D --> F[Log & Normalize Data]
     E --> F[Log & Normalize Data]
     F --> G[Send confirmation + Feed Reporting System]
+
+![Flow Overview](https://raw.githubusercontent.com/VanHao1602/PowerAutomate/main/FLOW.jfif)
